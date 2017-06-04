@@ -1,7 +1,6 @@
 .alpha {
   font-family: Verdana;
   font-weight: normal;
-  text-align: center;
   color: white;
   font-size: 50px;
 }
@@ -9,5 +8,32 @@
 .butter {
   color:aquamarine;
   font-size: 16px;
+}
+
+.charly {
   text-align: center;
+}
+
+.centre {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.duff {
+  font-family:Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.edward {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.freddie {
+  text-align: right;
+  color:gray;
 }
